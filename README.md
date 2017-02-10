@@ -1,4 +1,4 @@
-Alfresco Share module that makes the thumbnail in table view a Edit Online link
+Alfresco Share module that makes the thumbnail in table view an Edit Online link
 ============================================================================
 
 This module changes the table view of Document Library. It changes the "on-click" functionality of the thumbnails for documents to Edit Online buttons.
