@@ -1,0 +1,17 @@
+.doclist .document-edit-online-aos a.action-link,
+.doclist .document-edit-online-libreoffice a.action-link
+{
+   background-position: 0;
+   background-repeat: no-repeat;
+   border: 0;
+   display: block;
+   min-height: 16px;
+   padding: 0;
+}
+
+.doclist .status img[alt="editing"]
+{
+   background-image: url(/share/res/components/documentlibrary/indicators/lock-owner-16.png);
+   padding-left: 100px;
+   background-repeat: no-repeat;
+}
